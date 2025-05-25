@@ -20,11 +20,11 @@ Este código fue desarrollado como parte de un estudio académico y acompaña un
 
 ## Estructura del repositorio
 
-memoria_tfg # La memoria sobre el trabajo en el que se muestran los resultados de las simulaciones
-cond_bayesiano.py # Contiene el programa necesario para realizar la gráfica del condicionamiento bayesiano de la memoria
-modelo_kriging_universal # Simulación correspondiente a la prueba de convergencia del algoritmo (usar semillas s=12,20)
-modelo_kriging_ordinario # Simulación correspondiente a la comparación del kriging ordinario y universal
-modelo_expected_improvement # Simulación correspondiente a la comparación de las distintas funciones de adquisición planteadas en la memoria
+- memoria_tfg.pdf: La memoria sobre el trabajo en el que se muestran los resultados de las simulaciones
+- cond_bayesiano.py # Contiene el programa necesario para realizar la gráfica del condicionamiento bayesiano de la memoria
+- modelo_kriging_universal # Simulación correspondiente a la prueba de convergencia del algoritmo (usar semillas s=12,20)
+- modelo_kriging_ordinario # Simulación correspondiente a la comparación del kriging ordinario y universal
+- modelo_expected_improvement # Simulación correspondiente a la comparación de las distintas funciones de adquisición planteadas en la memoria
 
 ## Requisitos
 
