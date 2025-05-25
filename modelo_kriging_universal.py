@@ -1,3 +1,5 @@
+#Kriging universal con UBC
+
 import numpy as np
 import matplotlib.pyplot as plt
 from pykrige.uk import UniversalKriging
